@@ -1,0 +1,20 @@
+.Pokemon {
+    display: inline-block;
+    width: 8em;
+    background-color: lightgray;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+  }
+  
+  .Pokemon-name {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .Pokemon-data {
+    font-size: .75em;
+  }
+  
+  
